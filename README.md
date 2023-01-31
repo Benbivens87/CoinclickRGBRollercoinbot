@@ -6,8 +6,15 @@ without quotes and click the update button to run the code and press the "q" but
 you can enter up to 7 RGB values you can test it on any game such as fps
 i simply used the coinclick game as an example 
 Make sure to install the following libraries using the pip command 
+
+
 pip install pywin32
+
 pip install keyboard
+
 pip install pyautogui
+
 pip install tkinter
+
+
 im also using python version 3.9.12 for windows 64 bit
